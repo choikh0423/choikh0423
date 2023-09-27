@@ -24,7 +24,7 @@ I enjoy solving problems and making impactful products.
 ---
 ### ✨ My past projects are...
 
-**Gale: Programming Lead**
+!(**Gale: Programming Lead**)[https://github.com/choikh0423/8venture-games]
 - Presented platformer game with 30 levels at GDIAC Showcase, gathering 50+ players and 150+ views on GitHub Release
 - Directed development process by managing sprint cycles, modularizing programming tasks, and conducting code reviews
 
