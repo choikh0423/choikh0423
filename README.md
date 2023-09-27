@@ -24,11 +24,11 @@ I enjoy solving problems and making impactful products.
 ---
 ### ✨ My past projects are...
 
-!(**Gale: Programming Lead**)[https://github.com/choikh0423/8venture-games]
+[**Gale: Programming Lead**](https://github.com/choikh0423/8venture-games)
 - Presented platformer game with 30 levels at GDIAC Showcase, gathering 50+ players and 150+ views on GitHub Release
 - Directed development process by managing sprint cycles, modularizing programming tasks, and conducting code reviews
 
-**Project Footprint - YHacks22**
+[**Project Footprint - YHacks22**](https://github.com/choikh0423/yhack2022)
 - Developed social media information management app using Facebook Graph API to strengthen privacy control
 - Built threat level evaluation algorithm by detecting personal information, profanity, and the author’s mood from SNS posts
 
