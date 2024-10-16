@@ -4,7 +4,6 @@ My name is Kyu, and I am a software engineer with entrepreneurial passion.
 I enjoy solving problems and making impactful products.
 
 ### 🌱 I am currently building...
-* Discord bot (using discord.py and MongoDB) that helps people gain back positive control over their lives again.
 
 ---
 ### 🔭 My past experiences are...
